@@ -15,3 +15,4 @@ D:\Kodehode\Development\C#\møteplanlegger-chatgpt-edition\obj\Debug\net9.0\refi
 D:\Kodehode\Development\C#\møteplanlegger-chatgpt-edition\obj\Debug\net9.0\møteplanlegger-chatgpt-edition.pdb
 D:\Kodehode\Development\C#\møteplanlegger-chatgpt-edition\obj\Debug\net9.0\møteplanlegger-chatgpt-edition.genruntimeconfig.cache
 D:\Kodehode\Development\C#\møteplanlegger-chatgpt-edition\obj\Debug\net9.0\ref\møteplanlegger-chatgpt-edition.dll
+D:\Kodehode\Development\C#\møteplanlegger-chatgpt-edition\obj\Debug\net9.0\møteplanlegger-chatgpt-edition.sourcelink.json

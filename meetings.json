@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "Title": "Test",
+    "Participants": [
+      "Nil",
+      " Kåre",
+      " Bjarne"
+    ],
+    "MeetingTime": "2025-02-11T15:00:00"
+  }
+]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("møteplanlegger-chatgpt-edition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af836e86192c8c1d0347b95c8b7824af338ef014")]
 [assembly: System.Reflection.AssemblyProductAttribute("møteplanlegger-chatgpt-edition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("møteplanlegger-chatgpt-edition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
