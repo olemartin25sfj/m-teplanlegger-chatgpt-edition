@@ -1,6 +1,6 @@
 Møteplanlegger laget av ChatGPT.
 Lager møter med tittel, deltakere, tid og dato.
-
+```
 +-------------------+
 |    Program       |
 +-------------------+
@@ -28,3 +28,4 @@ Lager møter med tittel, deltakere, tid og dato.
 +-------------------+
 | + SaveToFile()    |
 +-------------------+
+```
